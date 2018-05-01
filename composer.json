@@ -5,7 +5,11 @@
     "license": "GPL-2.0-or-later",
     "require": {
         "composer/installers": "^1.0.24",
-        "wikimedia/composer-merge-plugin": "^1.4"
+        "wikimedia/composer-merge-plugin": "^1.4",
+        "commerceguys/addressing": "^0.8.4",
+        "drupal/address": "~1.0",
+        "drupal/geofield": "^1.0@beta",
+        "phayes/geophp": "^1.2"
     },
     "replace": {
         "drupal/core": "^8.5"
